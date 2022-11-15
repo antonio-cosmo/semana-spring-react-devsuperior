@@ -1,0 +1,30 @@
+.containerHeader{
+    height:220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: linear-gradient(180deg, #102347 0%, #181818 100%);
+
+}
+.contentLogoHeader{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+
+.contentLogoHeader img{
+    width: 235px;
+}
+
+.contentLogoHeader h1{
+    font-weight: 700;
+    margin-top: 15px;
+    font-size: 24px;
+}
+
+.contentLogoHeader p{
+    font-weight: 300;
+    font-size: 12px;
+}
